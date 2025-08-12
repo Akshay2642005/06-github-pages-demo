@@ -4,7 +4,7 @@ This is a simple, responsive landing page created as part of the **DevOps Intern
 It is hosted for free using **GitHub Pages**.
 
 ## 🚀 Live Website
-[🔗 Click here to view](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
+[🔗 Click here to view](https://akshay2642005.github.io/06-github-pages-demo/)
 
 ## 📸 Screenshots
 > Replace these placeholders with your actual screenshots after deployment.
@@ -19,13 +19,6 @@ It is hosted for free using **GitHub Pages**.
 - ✅ Dark mode toggle
 - ✅ Smooth scrolling
 - ✅ Free hosting via GitHub Pages
-
-## 📂 Project Structure
-.
-├── index.html      # Main landing page
-├── style.css       # Stylesheet
-├── script.js       # JavaScript for interactivity
-└── README.md       # Documentation
 
 ## ⚙️ Setup & Deployment
 1. Clone the repository:
