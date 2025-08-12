@@ -9,8 +9,7 @@ It is hosted for free using **GitHub Pages**.
 ## 📸 Screenshots
 > Replace these placeholders with your actual screenshots after deployment.
 
-![Homepage Screenshot](screenshots/homepage.png)  
-![Mobile View Screenshot](screenshots/mobile-view.png)
+![Homepage Screenshot](screenshots/homepage.png)
 
 ## 🛠 Features
 - ✅ Clean and responsive design
