@@ -22,8 +22,8 @@ It is hosted for free using **GitHub Pages**.
 ## ⚙️ Setup & Deployment
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   cd YOUR-REPO-NAME
+   git clone https://github.com/Akshay2642005/06-github-pages-demo.git
+   cd 06-github-pages-demo
    ```
 2. Edit content as needed.
 3. Push changes to GitHub.
